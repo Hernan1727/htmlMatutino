@@ -16,6 +16,7 @@
 
 ## Utilizaremos Elementos Semánticos
 
->Son elementos de HTML que cumplen una función
+>Son elementos de HTML que cumplen una función semántica
 
 header, nav, main, footer, section, article
+
