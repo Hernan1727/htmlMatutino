@@ -1,6 +1,6 @@
 body{
 	background-color: #F2EDE4;
-	font-family: helvetica;
+	font-family: 'Raleway', sans-serif;
 	color: #735D49;
 	font-size: 22px;
 }
@@ -11,12 +11,33 @@ header{
 nav{
 	background-color: #A67951;
 	height: 60px;
+	text-align: center;
 }
+	nav a{
+		color: #F2EDE4;
+		text-decoration: none;
+		margin: 8px;
+		padding: 8px;
+		display: inline-block;
+	}
+
 main{
 	background-color: #F2EDE4;
-	height: 530px;
+	min-height: 530px;
+	padding-top: 20px;
+	width: 1024px;
+	margin: auto;
 }
+	main a{
+		color: #261302;
+		text-decoration: none;
+	}
+
 footer{
 	background-color: #A67951;
-	height: 150px
+	height: 150px;
+	box-sizing: border-box;
+	color: #F2EDE4;
+	text-align: center;
+	padding-top: 50px;
 }
