@@ -1,0 +1,19 @@
+body{
+	background-color: #F2EDE4;
+}
+header{
+	background-color: #735D49; 
+	height: 150px;
+}
+nav{
+	background-color: #A67951;
+	height: 60px;
+}
+main{
+	background-color: #F2EDE4;
+	height: 530px;
+}
+footer{
+	background-color: #A67951;
+	height: 150px
+}
