@@ -1,0 +1,36 @@
+body{
+	background-color: #EBEBEB;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.1em;
+	color: #333;
+}
+header{
+	height: 150px;
+	background-color: #666;
+}
+nav{
+	height: 60px;
+	background-color: #333;
+	text-align: center;
+}
+	nav a{
+		text-decoration: none;
+		color: #ddd;
+		display: inline-block;
+		padding: 17px 25px 17px 25px;
+		border-bottom: 4px solid #333;
+	}
+	nav a:hover{
+		color: #fff;
+		border-bottom: 4px solid #fff;
+	}
+main{
+	background-color: #fff;
+	min-height: 500px;
+	width: 1024px;
+	margin: auto;
+}
+footer{
+	height: 150px;
+	background-color: #666;
+}
